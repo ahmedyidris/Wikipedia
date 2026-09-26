@@ -7,7 +7,7 @@ originals.
 
 | Document | What it establishes |
 | --- | --- |
-| IPC Powerlifting Diploma | World record 177.50 kg, −52.00 kg category, Paralympic Games 1992, Barcelona, 05-09-1992. Signed Andre Raes (IPC Secretary General). Name given as "Ahmed Mohamed Gomaa". |
+| IPC Powerlifting Diploma (names him "Ahmed Mohamed Gomaa" — the form used as the Arabic article title) | World record 177.50 kg, −52.00 kg category, Paralympic Games 1992, Barcelona, 05-09-1992. Signed Andre Raes (IPC Secretary General). Name given as "Ahmed Mohamed Gomaa". |
 | COOB'92 certificate of recognition | Contribution to the success of the IX Paralympic Games, Barcelona '92. Signed Guillermo Cabezas (ICC) and Pasqual Maragall (COOB'92). |
 | Egyptian Supreme Council for Youth and Sports certificate | Thanks and appreciation for the gold medal at the Atlanta Games; signed Dr. Abdel Moneim Emara; dated 24 Safar 1417 AH / 7 September 1996. |
 | Newspaper report by Lawrence Machado | Second World Handicapped Powerlifting Championships: world record in the 56 kg section, decided over Korea's Keum-Jong Jung; prize for technical consistency. |
@@ -35,7 +35,7 @@ originals.
   only list, category and event pages (قائمة ميداليات الألعاب البارالمبية
   الصيفية 1992، مصر في الألعاب البارالمبية) plus the disambiguation page
   أحمد جمعة (توضيح), which lists only footballers. The Arabic draft at
-  `../أحمد_جمعة_محمد.md` would be a new article, not an edit to an existing one.
+  `../أحمد_محمد_جمعة.md` would be a new article, not an edit to an existing one.
   Its wikilinks should be verified against ar.wikipedia before saving: some
   target articles (e.g. رفع الأثقال البارالمبي، المجلس الأعلى للشباب والرياضة)
   may not exist under those exact titles and would render as red links.

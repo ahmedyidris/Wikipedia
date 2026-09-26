@@ -23,7 +23,7 @@
 {{MedalSilver | [[2004 Summer Paralympics|2004 Athens]] | 56 kg}}
 }}
 
-**Ahmed Gomaa Mohamed** ({{langx|ar|أحمد جمعة محمد}}; also recorded in international results as **Gomma G. Ahmed** and **Mohamed Ahmed**) is an Egyptian [[para powerlifting|para powerlifter]]. He is a three-time [[Paralympic Games|Paralympic]] champion, winning gold in the men's 52&nbsp;kg class at the [[1992 Summer Paralympics]] in Barcelona and in the men's 56&nbsp;kg class at the [[1996 Summer Paralympics]] in Atlanta and the [[2000 Summer Paralympics]] in Sydney, and adding a silver medal in the 56&nbsp;kg class at the [[2004 Summer Paralympics]] in Athens.
+**Ahmed Gomaa Mohamed** ({{langx|ar|أحمد جمعة محمد}}; also rendered **Ahmed Mohamed Gomaa**, the form used on his 1992 IPC diploma, and recorded in international results as **Gomma G. Ahmed**) is an Egyptian [[para powerlifting|para powerlifter]]. He is a three-time [[Paralympic Games|Paralympic]] champion, winning gold in the men's 52&nbsp;kg class at the [[1992 Summer Paralympics]] in Barcelona and in the men's 56&nbsp;kg class at the [[1996 Summer Paralympics]] in Atlanta and the [[2000 Summer Paralympics]] in Sydney, and adding a silver medal in the 56&nbsp;kg class at the [[2004 Summer Paralympics]] in Athens.
 
 ## Career
 
