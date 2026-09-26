@@ -15,6 +15,13 @@ originals.
 
 ## Notes for Wikipedia submission
 
+- **The death date (14 December 2013) is currently unsourced.** It came from the
+  family. Both drafts carry a citation-needed tag on it. Wikipedia will not keep
+  an unsourced death date for long: it needs an obituary, a death notice
+  (نعي), a federation or NPC announcement, or press coverage. Egyptian sports
+  press from December 2013 (Al-Ahram, Al-Masry Al-Youm, Youm7) is the place to
+  look, as is any statement from the Egyptian Paralympic Committee.
+
 - Wikipedia requires **published, independent** sources. The documents above are
   primary and unpublished: they support detail but do not by themselves
   establish notability. Notability here rests on the published Paralympic

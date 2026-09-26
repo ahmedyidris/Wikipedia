@@ -7,6 +7,7 @@
 | native_name    = أحمد جمعة محمد
 | native_name_lang = ar
 | image          =
+| death_date     = {{death date|2013|12|14|df=y}}
 | nationality    = Egyptian
 | country        = {{EGY}}
 | sport          = [[Para powerlifting]]
@@ -49,6 +50,10 @@ Alongside his Paralympic career Gomaa competed on the world championship circuit
 
 He also represented Egypt at the [[2003 All-Africa Games]] in [[Abuja]], [[Nigeria]], where he was accredited as athlete number 141 for the Egyptian [[National Olympic Committee]].<ref name="abuja">All Africa Games Abuja 2003, athlete accreditation card no. 141, Ahmed Gomaa Mohamed, Egypt – NOC.</ref>
 
+## Death
+
+Gomaa died on 14 December 2013.{{citation needed|date=September 2026}}
+
 ## Legacy
 
 Gomaa was part of the generation of Egyptian para powerlifters — alongside [[Fatma Omar]], Metwaly Mathna and others — that established Egypt as one of the dominant nations in the sport from the 1990s onwards.<ref name="egyparalympics">{{cite web |title=Egypt at the Paralympics |website=Wikipedia |url=https://en.wikipedia.org/wiki/Egypt_at_the_Paralympics}}</ref>
@@ -74,7 +79,7 @@ International results databases have recorded Gomaa's name inconsistently, refle
 * [https://www.paralympic.org/ International Paralympic Committee]
 
 {{DEFAULTSORT:Gomaa Mohamed, Ahmed}}
-[[Category:Living people]]
+[[Category:2013 deaths]]
 [[Category:Egyptian powerlifters]]
 [[Category:Paralympic powerlifters for Egypt]]
 [[Category:Paralympic gold medalists for Egypt]]
