@@ -15,12 +15,19 @@ originals.
 
 ## Notes for Wikipedia submission
 
-- **The death date (14 December 2013) is currently unsourced.** It came from the
-  family. Both drafts carry a citation-needed tag on it. Wikipedia will not keep
-  an unsourced death date for long: it needs an obituary, a death notice
-  (نعي), a federation or NPC announcement, or press coverage. Egyptian sports
-  press from December 2013 (Al-Ahram, Al-Masry Al-Youm, Youm7) is the place to
-  look, as is any statement from the Egyptian Paralympic Committee.
+- **The death date is now sourced.** Youm7, "وفاة بطل الأثقال الباراليمبى أحمد
+  جمعة", 15 December 2013, reports that he died on the Saturday morning —
+  14 December 2013. Both drafts cite it and the citation-needed tags are gone.
+  Caveat: youm7.com is blocked by this environment's network policy, so the
+  article body was never read directly; the headline, outlet, date and the
+  "Saturday morning" detail come from the search index. Read the piece and
+  confirm the details before publishing, and check whether it gives his age,
+  birth date or cause of death — all still unknown here.
+- A second result, ajel.sa "تفجر اتهامات خطيرة في واقعة وفاة بطل رفع أثقال مصري",
+  appears to concern allegations around the death. It was not read and nothing
+  from it is in either draft. Anything on that subject is a
+  contentious claim about living people as well as the deceased, and needs
+  strong sourcing and careful wording before it goes anywhere near an article.
 
 - Wikipedia requires **published, independent** sources. The documents above are
   primary and unpublished: they support detail but do not by themselves

@@ -52,7 +52,7 @@ He also represented Egypt at the [[2003 All-Africa Games]] in [[Abuja]], [[Niger
 
 ## Death
 
-Gomaa died on 14 December 2013.{{citation needed|date=September 2026}}
+Gomaa died on the morning of Saturday 14 December 2013. The Egyptian newspaper [[Youm7]] reported his death the following day, describing him as the Paralympic powerlifting champion who had won more than one Olympic medal for Egypt.<ref name="youm7">{{cite news |title=وفاة بطل الأثقال الباراليمبى أحمد جمعة |trans-title=Death of the Paralympic powerlifting champion Ahmed Gomaa |language=ar |work=[[Youm7]] |date=15 December 2013 |url=https://www.youm7.com/story/2013/12/15/%D9%88%D9%81%D8%A7%D8%A9-%D8%A8%D8%B7%D9%84-%D8%A7%D9%84%D8%A3%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%8A%D9%85%D8%A8%D9%89-%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D8%B9%D8%A9/1398365 |access-date=26 September 2026}}</ref>
 
 ## Legacy
 
