@@ -1,0 +1,82 @@
+{{Infobox sportsperson
+| name = Ahmed Gomaa Mohamed
+| image = 
+| birth_date = {{Birth date|1963|3|10|df=y}}
+| birth_place = [[Faqous]], [[Al Sharqia Governorate]], [[Egypt]]
+| death_date = {{Death date and age|2013|12|14|1963|3|10|df=y}}
+| nationality = Egyptian
+| sport = [[Paralympic powerlifting]]
+| country = Egypt
+}}
+{{MedalTop}}
+{{MedalCountry | {{EGY}} }}
+{{MedalSport | Men's [[Paralympic powerlifting|powerlifting]]}}
+{{MedalCompetition | [[Paralympic Games]]}}
+{{MedalGold | [[1992 Summer Paralympics|1992 Barcelona]] | 52 kg}}
+{{MedalGold | [[1996 Summer Paralympics|1996 Atlanta]] | 56 kg}}
+{{MedalGold | [[2000 Summer Paralympics|2000 Sydney]] | 56 kg}}
+{{MedalSilver | [[2004 Summer Paralympics|2004 Athens]] | 56 kg}}
+{{MedalBottom}}
+
+'''Ahmed Gomaa Mohamed''' (10 March 1963 – 14 December 2013) was an Egyptian [[Paralympic powerlifting|Paralympic powerlifter]]. He won three consecutive Paralympic gold medals: in the 52 kg weight class at the [[1992 Summer Paralympics]] in [[Barcelona]], and in the 56 kg weight class at both the [[1996 Summer Paralympics]] in [[Atlanta]] and the [[2000 Summer Paralympics]] in [[Sydney]]. He also won a silver medal in the 56 kg weight class at the [[2004 Summer Paralympics]] in [[Athens]].<ref name="ipc-results" />
+
+His name appears in international result records in various formats, including ''Ahmed Mohamed Gomaa'', ''Ahmed Gomaa Mohamed'', and ''Gomma G. Ahmed''.
+
+== Early life ==
+Ahmed Gomaa Mohamed was born on 10 March 1963 in the city of [[Faqous]], [[Al Sharqia Governorate]].{{citation needed|date=September 2026}}
+
+== Sports career ==
+
+=== Barcelona 1992 ===
+Ahmed Gomaa participated in the Paralympic Games for the first time at the [[1992 Summer Paralympics|1992 Barcelona Games]], where he won the gold medal in the men's 52 kg weight class.<ref name="ipc-results" /> On 5 September 1992, he lifted 177.50 kg in the 52 kg bodyweight category, a record recognized by the [[International Paralympic Committee]] as a world record.<ref name="ipc-1992-diploma" />
+
+=== Atlanta 1996 ===
+Moving up to the 56 kg weight class, Ahmed Gomaa successfully defended his Paralympic title at the [[1996 Summer Paralympics|1996 Atlanta Games]].<ref name="ipc-results" />
+
+=== Sydney 2000 ===
+At the [[2000 Summer Paralympics|2000 Sydney Games]], he won his third consecutive Paralympic gold medal in the 56 kg weight class, lifting 192.5 kg. By doing so, he broke his previous Paralympic and world records.<ref name="ahram-2000" />
+
+=== Athens 2004 ===
+He participated in his fourth Paralympic Games at [[2004 Summer Paralympics|Athens 2004]], winning the silver medal in the 56 kg weight class by lifting 180.0 kg, finishing behind China's Wang Jian, who lifted 185.0 kg. The competition took place on 22 September 2004.<ref name="ipc-2004" />
+
+== Death ==
+Ahmed Gomaa passed away on the morning of Saturday, 14 December 2013. The Egyptian press mourned him the following day, describing him as the Paralympic weightlifting champion with multiple Paralympic medals for Egypt.<ref name="youm7-2013" /><ref name="watan-2013" />
+
+== Sporting legacy ==
+Ahmed Gomaa Mohamed belongs to the generation that cemented [[Egypt at the Paralympics|Egypt's]] position as one of the most powerful nations in Paralympic powerlifting since the 1990s.
+
+Ahmed Gomaa remains an unforgettable name in the history of Egyptian Paralympic sports, not only for the medals he achieved over twenty years, but also for the moral impact he left on every Egyptian weightlifter of determination who came after him. Every championship won today, and every medal raised in the name of Egypt in Paralympic powerlifting, bears in its roots the footprint of the champion who paved the way quietly, without the recognition befitting the magnitude of his achievements. His legacy lies not only in numbers and medals, but in the lesson he left behind: that true greatness does not need spotlights to prove itself, and that the one who makes history is not measured by those who applaud him, but by those who walk the path he illuminated. May he rest in peace, for he was and remains an unextinguished lantern, even if its owner has faded from the limelight.<ref name="ipc-results" />
+
+== See also ==
+* [[Egypt at the Paralympics]]
+* [[Powerlifting at the Summer Paralympics]]
+* [[Paralympic powerlifting]]
+
+== References ==
+{{Reflist|refs=
+<ref name="ipc-results">{{cite web |title=Historical Results Archive – Powerlifting |url=https://www.paralympic.org/results |website=International Paralympic Committee |language=en |access-date=26 September 2026}}</ref>
+<ref name="ipc-1992-diploma">{{cite web |title=Barcelona 1992 – Powerlifting results |url=https://www.paralympic.org/barcelona-1992/results/powerlifting |website=International Paralympic Committee |language=en |access-date=26 September 2026}}</ref>
+<ref name="ahram-2000">{{cite news |title=Eat your hearts out |work=[[Al-Ahram Weekly]] |date=2000 |issue=507 |url=http://weekly.ahram.org.eg/Archive/2000/507/sp1.htm |language=en |access-date=26 September 2026}}</ref>
+<ref name="ipc-2004">{{cite web |title=Athens 2004 – Powerlifting, men's 56 kg |url=https://www.paralympic.org/athens-2004/results/powerlifting/mens-56-kg |website=International Paralympic Committee |language=en |access-date=26 September 2026}}</ref>
+<ref name="youm7-2013">{{cite news |title=وفاة بطل الأثقال الباراليمبى أحمد جمعة (Death of Paralympic weightlifting champion Ahmed Gomaa) |work=[[Youm7]] |date=15 December 2013 |url=https://www.youm7.com/story/2013/12/15/%D9%88%D9%81%D8%A7%D8%A9-%D8%A8%D8%B7%D9%84-%D8%A7%D9%84%D8%A3%D8%AB%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%8A%D9%85%D8%A8%D9%89-%D8%A3%D8%AD%D9%85%D8%AF-%D8%AC%D9%85%D8%B9%D8%A9/1398365 |access-date=26 September 2026 |language=ar}}</ref>
+<ref name="watan-2013">{{cite news |title=وفاة بطل رفع الأثقال البارالمبي أحمد جمعة (Death of Paralympic powerlifting champion Ahmed Gomaa) |work=[[El Watan (Egypt)|El Watan]] |date=15 December 2013 |url=https://www.elwatannews.com/news/details/377767 |access-date=26 September 2026 |language=ar}}</ref>
+}}
+
+== External links ==
+* [https://www.paralympic.org/ International Paralympic Committee]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gomaa Mohamed, Ahmed}}
+[[Category:1963 births]]
+[[Category:2013 deaths]]
+[[Category:Egyptian male powerlifters]]
+[[Category:Paralympic powerlifters for Egypt]]
+[[Category:Paralympic medalists in powerlifting]]
+[[Category:Powerlifters at the 1992 Summer Paralympics]]
+[[Category:Powerlifters at the 1996 Summer Paralympics]]
+[[Category:Powerlifters at the 2000 Summer Paralympics]]
+[[Category:Powerlifters at the 2004 Summer Paralympics]]
+[[Category:Paralympic gold medalists for Egypt]]
+[[Category:Paralympic silver medalists for Egypt]]
+[[Category:People from Al Sharqia Governorate]]
