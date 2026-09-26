@@ -1,7 +1,7 @@
 # Source material — Ahmed Gomaa Mohamed
 
-Primary documents held by the subject's family were used to draft
-`../Ahmed_Gomaa_Mohamed.md`. The documents themselves are not stored in this
+Photographs of primary documents, supplied by the requester, were used to draft
+both drafts. The documents themselves are not stored in this
 repository; they are described here so the citations can be checked against the
 originals.
 
@@ -32,7 +32,8 @@ originals.
   environment's network policy — and nothing from them is in either draft.
   Material of that kind needs the articles read in full, strong sourcing and
   neutral wording, and it makes contentious claims about living people as well
-  as the deceased. It is a decision for the family, not a default inclusion.
+  as the deceased. It is an editorial decision to be taken deliberately, not a
+  default inclusion.
 - **Unresolved medal-count conflict.** A search summary of the Al-Watan report
   describes three Paralympic Games with two golds and a bronze. The results
   record used in both drafts is four Games with three golds (1992, 1996, 2000)
