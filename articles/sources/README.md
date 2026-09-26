@@ -15,6 +15,13 @@ originals.
 
 ## Notes for Wikipedia submission
 
+- **Birth details supplied by the requester (unsourced):** born 10 March 1963
+  (١٠/٣/١٩٦٣) in فاقوس، محافظة الشرقية، مصر. No published source located for
+  either the date or the birthplace yet. Wikipedia treats an unsourced birth
+  date for a named person the same way it treats a death date — it needs a
+  citation or it gets removed. An obituary that gives his age at death would
+  corroborate the year; local Sharqia press would corroborate فاقوس.
+
 - **The death date is now sourced.** Youm7, "وفاة بطل الأثقال الباراليمبى أحمد
   جمعة", 15 December 2013, reports that he died on the Saturday morning —
   14 December 2013. Both drafts cite it and the citation-needed tags are gone.
