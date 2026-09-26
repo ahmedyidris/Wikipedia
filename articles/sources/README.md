@@ -26,9 +26,19 @@ originals.
   The draft currently cites sister Wikipedia articles as placeholders; Wikipedia
   does not accept itself as a source, so these must be swapped for the
   underlying results pages.
-- An existing en.wikipedia article, "Mohamed Ahmed (powerlifter)", may cover the
-  same person under a different transliteration — check for a duplicate and
-  merge or redirect rather than creating a parallel article.
+- **Duplicate check: resolved.** The en.wikipedia article "Mohamed Ahmed
+  (powerlifter)" is a *different* athlete — an Egyptian powerlifter who took up
+  the sport in 2002, whose impairment results from polio, and who won silver in
+  the men's 107 kg class at the 2016 Rio Paralympics. He is not the subject of
+  this draft, so there is no duplicate to merge.
+- **Arabic Wikipedia: no article exists.** Searches of ar.wikipedia.org return
+  only list, category and event pages (قائمة ميداليات الألعاب البارالمبية
+  الصيفية 1992، مصر في الألعاب البارالمبية) plus the disambiguation page
+  أحمد جمعة (توضيح), which lists only footballers. The Arabic draft at
+  `../أحمد_جمعة_محمد.md` would be a new article, not an edit to an existing one.
+  Its wikilinks should be verified against ar.wikipedia before saving: some
+  target articles (e.g. رفع الأثقال البارالمبي، المجلس الأعلى للشباب والرياضة)
+  may not exist under those exact titles and would render as red links.
 - Do not upload photographs of these documents to Commons without a clear
   copyright licence from the rights holder; the certificates and the newspaper
   page are third-party copyrighted works.
