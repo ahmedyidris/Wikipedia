@@ -23,11 +23,24 @@ originals.
   "Saturday morning" detail come from the search index. Read the piece and
   confirm the details before publishing, and check whether it gives his age,
   birth date or cause of death — all still unknown here.
-- A second result, ajel.sa "تفجر اتهامات خطيرة في واقعة وفاة بطل رفع أثقال مصري",
-  appears to concern allegations around the death. It was not read and nothing
-  from it is in either draft. Anything on that subject is a
-  contentious claim about living people as well as the deceased, and needs
-  strong sourcing and careful wording before it goes anywhere near an article.
+- **Coverage of the death exists beyond Youm7, unread.** Search surfaced
+  Al-Watan (elwatannews.com/news/details/377767), Al-Ittihad
+  ("تحقيقات وعقوبات بعد وفاة «البارالمبي المصري»") and Ajel
+  ("تفجر اتهامات خطيرة في واقعة وفاة بطل رفع أثقال مصري"). The last two
+  indicate there were investigations, penalties and allegations surrounding the
+  death. None was read — every one of these domains is blocked by this
+  environment's network policy — and nothing from them is in either draft.
+  Material of that kind needs the articles read in full, strong sourcing and
+  neutral wording, and it makes contentious claims about living people as well
+  as the deceased. It is a decision for the family, not a default inclusion.
+- **Unresolved medal-count conflict.** A search summary of the Al-Watan report
+  describes three Paralympic Games with two golds and a bronze. The results
+  record used in both drafts is four Games with three golds (1992, 1996, 2000)
+  and a silver (2004), which matches the per-event results pages, the 1992 IPC
+  diploma and the Al-Ahram Weekly report on Sydney. The drafts follow the
+  results record. Confirm against the IPC database before publishing; obituaries
+  routinely garble medal tallies, so this is most likely a press error, but it
+  should be checked rather than assumed.
 
 - Wikipedia requires **published, independent** sources. The documents above are
   primary and unpublished: they support detail but do not by themselves
